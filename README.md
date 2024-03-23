@@ -2,13 +2,13 @@
 
 </br>
 
-💁‍♂️  I strarted to writing code in 1996 ☠️
+☠️  I strarted to writing code in 1996 
 
-💁‍♂️  I strarted to learn Java in 2014 🤷‍♂️
+🤷‍♂️  I strarted to learn Java in 2014 
 
-💁‍♂️  I strarted to learn Swift in 2015 ❤️
+💁‍♂️  I strarted to learn Swift in 2015 
 
-🔭  I’m currently working on Persian Justify 😉
+🔭  I’m currently working on Persian Justify 
 
 🌱  I’m currently learning Swift more and more!
 
