@@ -12,7 +12,7 @@
 
 🌱  I’m currently learning Swift more and more!
 
-💬  Don't ask me anything, I don't like to talk.
+
 
 👨‍💻  Read more about me at happyiosdeveloper.ir
 
