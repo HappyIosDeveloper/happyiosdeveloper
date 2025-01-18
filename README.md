@@ -8,7 +8,7 @@
 
 💁‍♂️  I strarted to learn Swift in 2015 
 
-🔭  I’m currently working on Persian Justify 
+🔭  I’m currently working on my personal projects 
 
 🌱  I’m currently learning Swift more and more!
 
